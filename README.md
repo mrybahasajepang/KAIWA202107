@@ -1,2 +1,2 @@
-# KAIWA202107
-Latihan kaiwavpersiapan ujian jlpt n3
+# CHOUKAI202107
+Latihan choukai persiapan ujian jlpt n3
